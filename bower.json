@@ -1,0 +1,13 @@
+{
+  "name": "jquery-orgchart",
+  "version": "0.0.1",
+  "main": "jquery.orgchart.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jquery": "~1.8.3"
+  }
+}
